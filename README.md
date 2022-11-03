@@ -1,1 +1,1 @@
-Stampa HelloUser!
+Stampa la stringa "HelloUser!"
